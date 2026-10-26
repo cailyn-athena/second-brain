@@ -1,5 +1,5 @@
 # Start here
-This is the second brain of [Your name].
+This is the second brain of Cailyn Johnson.
 Before any task, read in this order:
 1. SOUL.md
 2. USER.md
